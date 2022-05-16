@@ -1,0 +1,28 @@
+38 +-0123456789qwertyuioplkjhgfdsazxcvbnm
+7
+1 6
+0 & 1
+1 +-& 2
+2 0123456789 3
+3 0123456789 3
+3 & 6
+0 & 4
+4 abcdefghijklmnopqrstuvwxyz 5
+5 abcdefghijklmnopqrstuvwxyz0123456789 5
+5 & 6
+-1 * -1
+42
+-328
++9
+0
++0
+-0
+--256
++
+2-83+1
+i
+evair
+x1y2
+42
+1x2y
+*
