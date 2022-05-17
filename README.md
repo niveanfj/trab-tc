@@ -1,5 +1,6 @@
-# Simulador de ε−NFAs
-Simulador de autômatos não determinísticos com transições ε (ε−NFAs).
+<h1 align="center">  Simulador de ε−NFAs </h1>
+<h5 align="center"> Simulador de autômatos não determinísticos com transições ε (ε−NFAs). </h5>
+
 
 ## ⚙ Linguagens e Ferramentas
 C++
